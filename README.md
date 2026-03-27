@@ -92,20 +92,20 @@ Showing:learning depth (skills) across categories,time commitment required for e
 
 **9.Business impact and insights**
 
-_a.Improved Decision making for Learners:_Helps users identify high-rated and popular courses quickly and enables selection based on skill level, duration, and language preference which reduces time spent searching through thousands of courses.
+_a.Improved Decision making for Learners_:Helps users identify high-rated and popular courses quickly and enables selection based on skill level, duration, and language preference which reduces time spent searching through thousands of courses.
 
-_b.Strategic Insights for Platforms:_Identifies high-demand categories and trending skills that supports data-driven decisions for expanding into new domains or languages.
+_b.Strategic Insights for Platforms_:Identifies high-demand categories and trending skills that supports data-driven decisions for expanding into new domains or languages.
 
-_c.Enhanced Content Optimization:_Reveals the relationship between course duration and engagement,helping design optimal course lengths.
+_c.Enhanced Content Optimization_:Reveals the relationship between course duration and engagement,helping design optimal course lengths.
 It shows how subtitle languages impact viewership, encouraging multilingual accessibility.
 
-_d.Market Expansion Opportunities:_Language analysis uncovers opportunities to target global audiences and encourages platforms to invest in localized and inclusive content.
+_d.Market Expansion Opportunities_:Language analysis uncovers opportunities to target global audiences and encourages platforms to invest in localized and inclusive content.
 
-_e.Instructor Performance Evaluation:_Highlights top-performing instructors based on ratings and engagement which helps platforms retain high-quality instructors and improve underperforming ones.
+_e.Instructor Performance Evaluation_:Highlights top-performing instructors based on ratings and engagement which helps platforms retain high-quality instructors and improve underperforming ones.
 
-_f.English as the Primary Language:_A large proportion of courses are offered in English, showing limited multilingual diversity.
+_f.English as the Primary Language_:A large proportion of courses are offered in English, showing limited multilingual diversity.
 
-_g.Certain Categories Drive Maximum Engagement:_Domains like Data Science, Business, and Programming tend to have higher average viewers, indicating strong demand.
+_g.Certain Categories Drive Maximum Engagement_:Domains like Data Science, Business, and Programming tend to have higher average viewers, indicating strong demand.
 
 **10.Screenshot**
 
