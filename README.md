@@ -109,7 +109,9 @@ _g.Certain Categories Drive Maximum Engagement:_Domains like Data Science, Busin
 
 **10.Screenshot**
 
-https://github.com/sgrpriyanka17/edtech_startup_dashboard/blob/main/EdTech_Dashboard_2.PNG
+![Alt text](https://github.com/sgrpriyanka17/edtech_startup_dashboard/blob/main/EdTech_Dashboard_2.PNG)
+
+![Alt text](https://github.com/sgrpriyanka17/edtech_startup_dashboard/blob/main/EdTech_Dashboard_1.PNG)
 
 
 
