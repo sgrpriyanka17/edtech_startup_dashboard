@@ -91,6 +91,7 @@ _g.Category , Average of count of skills provided and Average of Duration in hou
 Showing:learning depth (skills) across categories,time commitment required for each category
 
 **9.Business impact and insights**
+
 _a.Improved Decision making for Learners:_Helps users identify high-rated and popular courses quickly and enables selection based on skill level, duration, and language preference which reduces time spent searching through thousands of courses.
 
 _b.Strategic Insights for Platforms:_Identifies high-demand categories and trending skills that supports data-driven decisions for expanding into new domains or languages.
@@ -108,7 +109,7 @@ _g.Certain Categories Drive Maximum Engagement:_Domains like Data Science, Busin
 
 **10.Screenshot**
 
-
+https://github.com/sgrpriyanka17/edtech_startup_dashboard/blob/main/EdTech_Dashboard_2.PNG
 
 
 
